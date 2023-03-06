@@ -3,9 +3,9 @@
 PROJECT 3 RDBMS GROUP 10
 --------------------------------------------------------------------
 Group Member :	Rachel Christine Frydael
-				Rahadyan Antawirja
-				Muchammad Ryan Adiyantara 
-Class		 :	1CC6
+		Rahadyan Antawirja
+		Muchammad Ryan Adiyantara 
+Class :	1CC6
 --------------------------------------------------------------------
 				QUERY CREATE OBJECT
 --------------------------------------------------------------------
