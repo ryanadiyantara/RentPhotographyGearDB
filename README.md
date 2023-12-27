@@ -1,11 +1,21 @@
-# Backgrounds:
-- Learn about Relational Database Management System
-- For the fulfillment of project tasks while studying at CCIT FTUI
+# "Database Query" Rent Photograph Gear 
+In order to fulfill the study project assignments at CCIT FTUI, creating database queries for photographic equipment rental services involves understanding relational database management systems (RDBMS).
 
-# Used:
+## Description
+Understanding Relational Database Management Systems (RDBMS):
+- Learn basic RDBMS concepts, including tables, relationships, and single keys.
+- Design a database structure for photography equipment rental services by considering the needs of entities such as Customers, Equipment and Transactions.
+- Implement relationships between tables to achieve data normalization and integrity.
+Fulfillment of CCIT FTUI Project Tasks:
+- Implement SQL queries to retrieve data required by the photography equipment rental application.
+- Optimize query performance to ensure responsiveness and efficiency.
+- Responds that the database structure and queries meet the project requirements of CCIT FTUI and support the required functionality in the photography service tenant.
+
+## System Requirements
 - Microsoft SQL Server SM 18
 
-# Reference:
-- From what was taught by the teachers at CCIT FTUI
-- From my own searches on the internet
-- From the capabilities of my own creativity
+## Installation
+- 
+
+## Reference:
+- https://www.youtube.com/MrMProgramming
