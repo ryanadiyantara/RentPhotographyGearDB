@@ -1,5 +1,5 @@
 # Backgrounds:
-- For learning about Relational Database Management System
+- Learn about Relational Database Management System
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
 # Used:
