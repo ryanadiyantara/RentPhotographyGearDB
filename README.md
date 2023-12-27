@@ -1,4 +1,4 @@
-# "Database Query" Rent Photograph Gear 
+# "Rent Photograph Gear" a Database Query
 In order to fulfill the study project assignments at CCIT FTUI, creating database queries for photographic equipment rental services involves understanding relational database management systems (RDBMS).
 
 ## Description
