@@ -6,6 +6,7 @@ Understanding Relational Database Management Systems (RDBMS):
 - Learn basic RDBMS concepts, including tables, relationships, and single keys.
 - Design a database structure for photography equipment rental services by considering the needs of entities such as Customers, Equipment and Transactions.
 - Implement relationships between tables to achieve data normalization and integrity.
+
 Fulfillment of CCIT FTUI Project Tasks:
 - Implement SQL queries to retrieve data required by the photography equipment rental application.
 - Optimize query performance to ensure responsiveness and efficiency.
