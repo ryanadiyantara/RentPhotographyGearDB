@@ -19,4 +19,6 @@ Fulfillment of CCIT FTUI Project Tasks:
 - 
 
 ## Reference:
-- https://www.youtube.com/MrMProgramming
+- From Lecturer Teaching at CCIT FTUI
+- From Browsing on the Internet
+- From My Own Creativity Ability
