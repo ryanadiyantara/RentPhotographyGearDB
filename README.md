@@ -12,10 +12,10 @@ Fulfillment of CCIT FTUI Project Tasks:
 - Optimize query performance to ensure responsiveness and efficiency.
 - Responds that the database structure and queries meet the project requirements of CCIT FTUI and support the required functionality in the photography service tenant.
 
-### System Requirements
+## System Requirements
 - Microsoft SQL Server SM 18
 
-#### Installation
+## Installation
 - 
 
 ## Reference:
